@@ -3,4 +3,4 @@
 # Start 
 
 npm install -> to install dependencies\
-npm start -> to start the server\
+npm start -> to start the server
